@@ -9,7 +9,17 @@
 
 ## 💻 Concentrador-Web
                  
-O Concentrador-Web é um produto criado usando Java Enterprise Edition que agrega várias funcionalidades ao concentrador padrão, como ele é um produto web ele utiliza o WildFly da empresa Jboss que é um servidor de aplicações web. O produto agrega ao concentrador as seguintes funcionalidades.
+O Concentrador-Web é um produto criado usando Java Enterprise Edition que agrega várias funcionalidades ao concentrador padrão, como ele é um produto web ele utiliza o WildFly da empresa Jboss que é um servidor de aplicações web. Abaixo são citadas diversas funcionalidades que o produto agrega ao concentrador.
+                 
+E-commerce: responsável por fazer a integração do econect com e-commerces externos, ele permite visualizar um relatório para acompanhar os pedidos, bem como seus status, a forma de pagamento e outros.
+                 
+Farmácia: permite o econect fazer uso do programa farmácia popular que da descontos para medicamentos, permite configurar, criar ou consultar uma solicitação referente a farmácia popular.
+                 
+Self Checkout: permite gerar um relatório de acompanhamento de divergências do Self Checkout com o objetivo de acompanhar os produtos para que o cliente possa tomar a devidas providências para corrigir as causas.
+                 
+Promoções:  permite consultar e imprimir as Relatório de vendas que utilizam uma Oferta Personalizada.
+Monitor Fiscal: permite visualizar o envio de movimentos referentes ao SAT o SEFAZ,  mostra qual Cupom já foi conciliado e qual ainda está pendente e também visualizar o hardware SAT e sua situação.
+
 
 ## Tópicos
 
