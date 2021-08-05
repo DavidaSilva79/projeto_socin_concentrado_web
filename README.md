@@ -9,7 +9,7 @@
 
 ## 💻 Concentrador-Web
                  
-🚧 Em construção... 🚧
+O Concentrador-Web é um produto criado usando Java Enterprise Edition que agrega várias funcionalidades ao concentrador padrão, como ele é um produto web ele utiliza o WildFly da empresa Jboss que é um servidor de aplicações web. O produto agrega ao concentrador as seguintes funcionalidades.
 
 ## Tópicos
 
