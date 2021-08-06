@@ -21,7 +21,7 @@ O Concentrador-Web é um produto criado usando Java Enterprise Edition que agreg
                  
 <strong>Monitor Fiscal:</strong> permite visualizar o envio de movimentos referentes ao SAT o SEFAZ, mostra qual Cupom já foi conciliado e qual ainda está pendente e também visualizar o hardware SAT e sua situação.
                  
-<strong>Tesouraria-cadastros:</strong> permite cadastrar uma bandeira de cartão, especificar sua condição e forma de pagamento, o tipo (crédito ou débito), a rede autorizada e a taxa administrativa, cadastrar todas as finalizadoras que são utilizadas pelo pdv, cadastrar as operadoras de celulares e redes autorizadas (operadoras de cartão) que estarão disponíveis no pdv.
+<strong>Tesouraria-cadastros:</strong> permite cadastrar uma bandeira de cartão, especificar sua condição e forma de pagamento, o tipo (crédito ou débito), a rede autorizada e a taxa administrativa, cadastrar todas as finalizadoras que são utilizadas pelo pdv, cadastrar as operadoras de celulares e operadoras de cartão que estarão disponíveis no pdv.
                  
 <strong>Tesouraria-Conciliação:</strong> permite visualizar os movimentos que precisam ser conciliados ou os movimentos já fechados Através da conciliação, todos os comprovantes são validados, garantindo que os caixas estão íntegros e que todos os comprovantes estão no fechamento do operador. 
 
