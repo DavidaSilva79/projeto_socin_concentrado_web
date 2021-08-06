@@ -21,17 +21,10 @@ Promoções: permite consultar e imprimir as Relatório de vendas que utilizam u
                  
 Monitor Fiscal: permite visualizar o envio de movimentos referentes ao SAT o SEFAZ, mostra qual Cupom já foi conciliado e qual ainda está pendente e também visualizar o hardware SAT e sua situação.
                  
-Tesouraria-cadastros-bandeira: permite cadastrar uma bandeira de cartão bem como especificar sua condição de pagamento, o tipo (crédito ou débito), a rede autorizada e a taxa administrativa.
-                 
-Tesouraria-cadastros-condições de pagamento: permite cadastrar as condições de pagamento de um determinado cartão colocando todas as possíveis datas (como data inicial, final e de vencimento), normalmente esse tipo de cadastro é utilizado pelas empresas de Vale alimentação, onde não se tem uma quantidade de dias pré-determinados e sim um período de validade com vencimento.
-                 
-Tesouraria-cadastros-forma de pagamento: permite realizar a conciliação da tesouraria e cadastrar todas as finalizadoras que são utilizadas pelo PDV.
-                 
-Tesouraria-cadastros-Operadora de celular: permite cadastrar as operadoras de celulares que estarão disponíveis no PDV.
-                 
-Tesouraria-cadastros-Rede autorizada:  permite cadastrar as redes autorizadas (operadoras de cartão) que estarão disponíveis no PDV.
+Tesouraria-cadastros: permite cadastrar uma bandeira de cartão, especificar sua condição e forma de pagamento, o tipo (crédito ou débito), a rede autorizada e a taxa administrativa, cadastrar todas as finalizadoras que são utilizadas pelo pdv, cadastrar as operadoras de celulares e redes autorizadas (operadoras de cartão) que estarão disponíveis no pdv.
                  
 Tesouraria-Conciliação: permite visualizar os movimentos que precisam ser conciliados ou os movimentos já fechados Através da conciliação, todos os comprovantes são validados, garantindo que os caixas estão íntegros e que todos os comprovantes estão no fechamento do operador. 
+
 
 
 
