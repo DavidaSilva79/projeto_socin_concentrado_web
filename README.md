@@ -9,16 +9,30 @@
 
 ## 💻 Concentrador-Web
                  
-O Concentrador-Web é um produto criado usando Java Enterprise Edition que agrega várias funcionalidades ao concentrador padrão, como ele é um produto web ele utiliza o WildFly da empresa Jboss que é um servidor de aplicações web. Abaixo são citadas diversas funcionalidades que o produto agrega ao concentrador.
+O Concentrador-Web é um produto criado usando Java Enterprise Edition que agrega várias funcionalidades ao concentrador padrão, como ele é um produto web ele utiliza o WildFly da empresa Jboss que é um servidor de aplicações web. O produto agrega ao concentrador diversas funcionalidades como.
                  
-E-commerce: responsável por fazer a integração do econect com e-commerces externos, ele permite visualizar um relatório para acompanhar os pedidos, bem como seus status, a forma de pagamento e outros.
+E-commerce-Pedidos: responsável por fazer a integração do econect com e-commerces externos, ele permite visualizar um relatório para acompanhar os pedidos, bem como seus status, a forma de pagamento e outros.
                  
-Farmácia: permite o econect fazer uso do programa farmácia popular que da descontos para medicamentos, permite configurar, criar ou consultar uma solicitação referente a farmácia popular.
+Farmácia: permite o econect fazer uso do programa farmácia popular que dá descontos para medicamentos, permite configurar, criar ou consultar uma solicitação referente a farmácia popular.
                  
-Self Checkout: permite gerar um relatório de acompanhamento de divergências do Self Checkout com o objetivo de acompanhar os produtos para que o cliente possa tomar a devidas providências para corrigir as causas.
+Self Checkout: permite visualizar um relatório de acompanhamento de divergências do Self Checkout com o objetivo de acompanhar os produtos para que o cliente possa tomar a devidas providências para corrigir as causas.
                  
-Promoções:  permite consultar e imprimir as Relatório de vendas que utilizam uma Oferta Personalizada.
-Monitor Fiscal: permite visualizar o envio de movimentos referentes ao SAT o SEFAZ,  mostra qual Cupom já foi conciliado e qual ainda está pendente e também visualizar o hardware SAT e sua situação.
+Promoções: permite consultar e imprimir as Relatório de vendas que utilizam uma Oferta Personalizada. 
+                 
+Monitor Fiscal: permite visualizar o envio de movimentos referentes ao SAT o SEFAZ, mostra qual Cupom já foi conciliado e qual ainda está pendente e também visualizar o hardware SAT e sua situação.
+                 
+Tesouraria-cadastros-bandeira: permite cadastrar uma bandeira de cartão bem como especificar sua condição de pagamento, o tipo (crédito ou débito), a rede autorizada e a taxa administrativa.
+                 
+Tesouraria-cadastros-condições de pagamento: permite cadastrar as condições de pagamento de um determinado cartão colocando todas as possíveis datas (como data inicial, final e de vencimento), normalmente esse tipo de cadastro é utilizado pelas empresas de Vale alimentação, onde não se tem uma quantidade de dias pré-determinados e sim um período de validade com vencimento.
+                 
+Tesouraria-cadastros-forma de pagamento: permite realizar a conciliação da tesouraria e cadastrar todas as finalizadoras que são utilizadas pelo PDV.
+                 
+Tesouraria-cadastros-Operadora de celular: permite cadastrar as operadoras de celulares que estarão disponíveis no PDV.
+                 
+Tesouraria-cadastros-Rede autorizada:  permite cadastrar as redes autorizadas (operadoras de cartão) que estarão disponíveis no PDV.
+                 
+Tesouraria-Conciliação: permite visualizar os movimentos que precisam ser conciliados ou os movimentos já fechados Através da conciliação, todos os comprovantes são validados, garantindo que os caixas estão íntegros e que todos os comprovantes estão no fechamento do operador. 
+
 
 
 ## Tópicos
