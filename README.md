@@ -39,31 +39,26 @@ O Concentrador-Web é um produto criado usando Java Enterprise Edition que agreg
 
 As seguintes ferramentas foram usadas na construção do projeto:
                  
-
-
 <ul> 
-  <li><a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript_3.5.3-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+   <li><a href="https://www.java.com">
+    <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
   </a></li>
   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
   </a> </li>
-  <li><a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" alt="spring-boot">
+  <li><a href="https://maven.apache.org/">
+    <img src="https://img.shields.io/badge/Apache Maven_3.8.1-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
+  </a></li>                                                                                                                                                   
+  <li><a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
+  </a></li> 
+  <li><a href="https://www.w3schools.com/html/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" alt="html">
   </a></li>
   <li><a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-  </a></li>                                                                                                                      
-  <li><a href="https://angular.io/">
-    <img src="https://img.shields.io/badge/AngularJS_8.2.13-E23237?&style=for-the-badge&logo=angular&logoColor=white" alt="angular">
-  </a></li> 
-  <li><a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node">
-  </a></li> 
-  <li><a href="https://www.npmjs.com/">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-  </a></li>                                                                                                                          
- </ul>                                                                                                                                           
+  </a></li>                                                                                                                                                             
+ </ul>                                                                                                                                         
 
 
 ## 🚀 Como executar o Concentrador-Web.
