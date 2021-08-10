@@ -71,11 +71,81 @@ além disto é bom ter um editor para trabalhar com o código como Eclipse ou o 
 
 ### 🎲 Executando o integrador RMS 
 
-Abaixo se encontro o link o para o manual de montagem de ambiente e execução.
+## Instalando Docker
+```shell
+sudo apt update
+sudo apt install docker.io -y
+docker --version
+```
+Instalação do curl:
+```shell
+sudo apt update
+sudo apt install curl -y
+curl --version
+``` 
+### Documentação Docker Compose
+https://docs.docker.com/compose/install
+### Releases Docker Compose:
+https://github.com/docker/compose/releases
+### Instalação do Docker Compose:
+```shell
+sudo apt update
+sudo curl -L "https://github.com/docker/compose/releases/download/1.26.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+```
+#### Removendo sudo do docker:
+- `sudo usermod -aG docker $USER`
+- *Necessário reiniciar o Ubuntu*
 
-Observação: Após importar o projeto na IDE no diretório integrador-rms/ aplicacao/src/main/resources/ no arquivo application.properties configurar a conexão com o banco do concentrador e outros parâmetros se necessário.
-                                                                                                                 
-https://github.com/socin-econect/integrador-rms/blob/master/doc/integrador_docx.pdf
+## Outros Requistos
+- SQLDeveloper - para gerenciar a base de dados
+- Maven na máquina: `sudo apt install maven -y`
+- Uma base de dados prévia
+
+# Iniciando o Concentrador-WEB
+- Execute o comando `docker-compose up` na pasta principal do projeto ( onde se encontra o arquivo docker-compose )
+![command docker-compose up on terminar](./img/01.png)
+## Instruções de Primeiro uso
+> Nota Importante: isso só deve ser feito uma única vez para inicializar a conexão com o banco de dados 
+- Conecte pelo sqldeveloper na nova base de dados oracle
+- Dados de Conexão:
+``` 
+usuário: system
+senha: oracle
+host: localhost
+porta: 9992
+sid: XE
+atribuição: padrão
+``` 
+![conexão no oracle](./img/02.png)
+- Em seguida execute os seguintes comandos sql:
+```sql
+CREATE USER concweb IDENTIFIED BY concweb;
+GRANT CONNECT, RESOURCE, DBA TO concweb;
+``` 
+- Em seguida faça a importação da base para o usuário `concweb` (senha: concweb)
+
+![instruções sql](./img/03.png)
+
+- Aperte `Ctrl+C` e execute o `docker-compose up` novamente no mesmo terminal que estava antes:
+![command docker-compose up on terminar após criação de usuário](./img/04.png)
+
+## Fazendo deploy no Wildfly
+- Na pasta principal do projeto `econect-w-parent-pom` abra o terminal e execute o seguinte comando: `sudo ./deploy.sh`
+
+![Incia deploy](./img/05.png)
+
+- Em um determinado momento do deploy ele **pode** pedir um usuário e senha do wildfly, são estes:
+```
+USUÁRIO: admin
+SENHA: admin
+```
+![Usuário e senh](./img/06.png)
+- Se tudo deu certo sua aplicação já pode ser acessada em: http://localhost:9989/econect
+![Usuário e senh](./img/07.png)
+
+> Observação: Os logs podem ser vistos na pasta log
                                                                                                                  
 
 ### 🎁 Geração de executavel produção
