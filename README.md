@@ -62,8 +62,27 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## 🚀 Como executar o Concentrador-Web.
-                                                                                                             
- 🚧 Em construção... 🚧                                                                                                          
+                                                                                                                 
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina o e-conect, Java JDK 1.8, MySQL 5.7, FTP e SSH, Mavem,
+além disto é bom ter um editor para trabalhar com o código como Eclipse ou o Spring Tools Suite em ambos é necessario instalar e configurar o lombok.
+
+
+### 🎲 Executando o integrador RMS 
+
+Abaixo se encontro o link o para o manual de montagem de ambiente e execução.
+
+Observação: Após importar o projeto na IDE no diretório integrador-rms/ aplicacao/src/main/resources/ no arquivo application.properties configurar a conexão com o banco do concentrador e outros parâmetros se necessário.
+                                                                                                                 
+https://github.com/socin-econect/integrador-rms/blob/master/doc/integrador_docx.pdf
+                                                                                                                 
+
+### 🎁 Geração de executavel produção
+                                                                                                                 
+- Fazer o build usando o mvn clean package
+- Pegar o arquivo jar presente na pasta integradortotvs\aplicacao\target integrador-rms-1.0.0.jar
+                                                                                                        
 
 ## 💫 Features
 
