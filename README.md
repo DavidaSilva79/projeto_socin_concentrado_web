@@ -39,53 +39,53 @@ O Concentrador-Web é um produto criado usando Java Enterprise Edition que agreg
 
 As seguintes ferramentas foram usadas na construção do projeto:
                  
-<ul> 
-   <li><a href="https://www.java.com">
+
+   <a href="https://www.java.com">
     <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
-  </a></li>
-  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
-  </a> </li>
-  <li><a href="https://maven.apache.org/">
+  </a> 
+  <a href="https://maven.apache.org/">
     <img src="https://img.shields.io/badge/Apache Maven_3.8.1-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
-  </a></li>                                                                                                                                                   
-  <li><a href="https://www.w3schools.com/css/">
+  </a>                                                                                                                                                  
+  <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
-  </a></li> 
-  <li><a href="https://www.w3schools.com/html/">
+  </a>
+  <a href="https://www.w3schools.com/html/">
     <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" alt="html">
-  </a></li>
-  <li><a href="https://sass-lang.com/">
+  </a>
+  <a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-  </a></li>
- <li><a href="https://arquillian.org/">
+  </a>
+ <a href="https://arquillian.org/">
     <img src="https://img.shields.io/badge/arquillian_1.1.12-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="arquillian">
-  </a></li>
- <li><a href="https://docs.npmjs.com/cli/v7/commands/npm-shrinkwrap/">
+  </a>
+ <a href="https://docs.npmjs.com/cli/v7/commands/npm-shrinkwrap/">
     <img src="https://img.shields.io/badge/shrinkwrap_2.2.5-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="shrinkwrap">
-  </a></li>
- <li><a href="https://docs.jboss.org/weld/reference/1.0.0/en-US/html/extensions.html">
+  </a>
+ <a href="https://docs.jboss.org/weld/reference/1.0.0/en-US/html/extensions.html">
     <img src="https://img.shields.io/badge/weldlogger_1.0.0CR2-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="weldlogger">
-  </a></li>
- <li><a href="https://sites.google.com/site/gson/gson-user-guide">
+  </a>
+ <a href="https://sites.google.com/site/gson/gson-user-guide">
     <img src="https://img.shields.io/badge/gson_2.8.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="gson">
-  </a></li>
- <li><a href="https://site.mockito.org/">
+  </a>
+ <a href="https://site.mockito.org/">
     <img src="https://img.shields.io/badge/mockito_1.10.19-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="mockito">
-  </a></li>
- <li><a href="http://hamcrest.org/">
+  </a>
+ <a href="http://hamcrest.org/">
     <img src="https://img.shields.io/badge/hamcrest_1.3-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="hamcrest">
-  </a></li>
-<li><a href="https://jsonassert.skyscreamer.org/cookbook.html">
+  </a>
+ <a href="https://jsonassert.skyscreamer.org/cookbook.html">
     <img src="https://img.shields.io/badge/jsonassert_1.4.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="jsonassert">
-  </a></li>
-<li><a href="https://www.h2database.com/html/main.html">
+  </a>
+ <a href="https://www.h2database.com/html/main.html">
     <img src="https://img.shields.io/badge/h2database_1.4.193-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="h2database">
-  </a></li>                                                                                             
-<li><a href="https://rest-assured.io/">
+  </a>                                                                                            
+  <a href="https://rest-assured.io/">
     <img src="https://img.shields.io/badge/restassured_2.9.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="restassured">
-  </a></li>                                
- </ul>                                                                                                                                        
+  </a>                               
+                                                                                                                                       
 
 
 ## 🚀 Como executar o Concentrador-Web.
