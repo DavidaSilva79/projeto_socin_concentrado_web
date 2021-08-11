@@ -65,7 +65,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/shrinkwrap_2.2.5-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
   </a></li>
  <li><a href="https://sass-lang.com/">
-    <img src="https://img.shields.io/badge/weld-logger_1.0.0-CR2-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+    <img src="https://img.shields.io/badge/weldlogger_1.0.0CR2-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
   </a></li>
  <li><a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/gson_2.8.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
@@ -82,7 +82,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <li><a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/h2database_1.4.193-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
   </a></li>                                                                                             <li><a href="https://sass-lang.com/">
-    <img src="https://img.shields.io/badge/rest-assured_2.9.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+    <img src="https://img.shields.io/badge/restassured_2.9.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
   </a></li>                                
  </ul>                                                                                                                                        
 
