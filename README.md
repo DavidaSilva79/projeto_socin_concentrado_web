@@ -59,19 +59,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
   </a>
  <a href="https://arquillian.org/">
-    <img src="https://img.shields.io/badge/arquillian_1.1.12-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="arquillian">
+    <img src="https://img.shields.io/badge/arquillian_1.1.12-5391FE?&style=for-the-badge&logo=&logoColor=white" alt="arquillian">
   </a>
  <a href="https://docs.npmjs.com/cli/v7/commands/npm-shrinkwrap/">
-    <img src="https://img.shields.io/badge/shrinkwrap_2.2.5-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="shrinkwrap">
+    <img src="https://img.shields.io/badge/shrinkwrap_2.2.5-FF6384?&style=for-the-badge&logo=&logoColor=white" alt="shrinkwrap">
   </a>
  <a href="https://docs.jboss.org/weld/reference/1.0.0/en-US/html/extensions.html">
-    <img src="https://img.shields.io/badge/weldlogger_1.0.0CR2-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="weldlogger">
+    <img src="https://img.shields.io/badge/weldlogger_1.0.0CR2-F80000?&style=for-the-badge&logo=&logoColor=white" alt="weldlogger">
   </a>
  <a href="https://sites.google.com/site/gson/gson-user-guide">
     <img src="https://img.shields.io/badge/gson_2.8.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="gson">
   </a>
  <a href="https://site.mockito.org/">
-    <img src="https://img.shields.io/badge/mockito_1.10.19-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="mockito">
+    <img src="https://img.shields.io/badge/mockito_1.10.19-FCC624?&style=for-the-badge&logo=sass&logoColor=white" alt="mockito">
   </a>
  <a href="http://hamcrest.org/">
     <img src="https://img.shields.io/badge/hamcrest_1.3-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="hamcrest">
@@ -80,7 +80,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/jsonassert_1.4.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="jsonassert">
   </a>
  <a href="https://www.h2database.com/html/main.html">
-    <img src="https://img.shields.io/badge/h2database_1.4.193-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="h2database">
+    <img src="https://img.shields.io/badge/h2database_1.4.193-43B02A?&style=for-the-badge&logo==white" alt="h2database">
   </a>                                                                                            
   <a href="https://rest-assured.io/">
     <img src="https://img.shields.io/badge/restassured_2.9.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="restassured">
