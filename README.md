@@ -57,8 +57,34 @@ As seguintes ferramentas foram usadas na construção do projeto:
   </a></li>
   <li><a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-  </a></li>                                                                                                                                                             
- </ul>                                                                                                                                         
+  </a></li>
+ <li><a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/arquillian_1.1.12-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  </a></li>
+ <li><a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/shrinkwrap_2.2.5-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  </a></li>
+ <li><a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/weld-logger_1.0.0-CR2-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  </a></li>
+ <li><a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/gson_2.8.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  </a></li>
+ <li><a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/mockito_1.10.19-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  </a></li>
+ <li><a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/hamcrest_1.3-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  </a></li>
+<li><a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/jsonassert_1.4.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  </a></li>
+<li><a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/h2database_1.4.193-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  </a></li>                                                                                             <li><a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/rest-assured_2.9.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  </a></li>                                
+ </ul>                                                                                                                                        
 
 
 ## 🚀 Como executar o Concentrador-Web.
