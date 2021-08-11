@@ -68,22 +68,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/weldlogger_1.0.0CR2-F80000?&style=for-the-badge&logo=&logoColor=white" alt="weldlogger">
   </a>
  <a href="https://sites.google.com/site/gson/gson-user-guide">
-    <img src="https://img.shields.io/badge/gson_2.8.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="gson">
+    <img src="https://img.shields.io/badge/gson_2.8.0-007CFF?&style=for-the-badge&logo=&logoColor=white" alt="gson">
   </a>
  <a href="https://site.mockito.org/">
-    <img src="https://img.shields.io/badge/mockito_1.10.19-FCC624?&style=for-the-badge&logo=sass&logoColor=white" alt="mockito">
+    <img src="https://img.shields.io/badge/mockito_1.10.19-FCC624?&style=for-the-badge&logo=&logoColor=white" alt="mockito">
   </a>
  <a href="http://hamcrest.org/">
-    <img src="https://img.shields.io/badge/hamcrest_1.3-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="hamcrest">
+    <img src="https://img.shields.io/badge/hamcrest_1.3-90E59A?&style=for-the-badge&logo=&logoColor=white" alt="hamcrest">
   </a>
  <a href="https://jsonassert.skyscreamer.org/cookbook.html">
-    <img src="https://img.shields.io/badge/jsonassert_1.4.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="jsonassert">
+    <img src="https://img.shields.io/badge/jsonassert_1.4.0-A81D33?&style=for-the-badge&logo=&logoColor=white" alt="jsonassert">
   </a>
  <a href="https://www.h2database.com/html/main.html">
-    <img src="https://img.shields.io/badge/h2database_1.4.193-43B02A?&style=for-the-badge&logo==white" alt="h2database">
+    <img src="https://img.shields.io/badge/h2database_1.4.193-43B02A?&style=for-the-badge&logo=white" alt="h2database">
   </a>                                                                                            
   <a href="https://rest-assured.io/">
-    <img src="https://img.shields.io/badge/restassured_2.9.0-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="restassured">
+    <img src="https://img.shields.io/badge/restassured_2.9.0-000000?&style=for-the-badge&logo=&logoColor=white" alt="restassured">
   </a>                               
                                                                                                                                        
 
